@@ -1,0 +1,56 @@
+body    {
+    font-family: Verdana;
+    background-color: #eee;
+   
+}
+
+
+
+.card  {
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0.484);
+    border-radius: 20px;
+    margin: 20px;
+    color: #eeeeeee0;
+}
+
+.liners {
+    font-size: 30px;
+    font-weight: 1;
+    color: #eeeeeee0;
+}
+
+
+
+.btn    {
+    background: #111;
+    padding: 15px 20px;
+    color: #eeeeeee0;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: inherit;
+    text-decoration: none;
+    margin-top: 25px;
+}
+.btn:hover  {
+    opacity: 0.8;
+    color: orange;
+}
+
+.btn2    {
+    background: #111;
+    padding: 5px 5px;
+    color: #eeeeeee0;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: inherit;
+    text-decoration: none;
+    margin-top: 25px;
+}
+.btn2:hover  {
+    opacity: 0.8;
+    color: orange;
+}
+

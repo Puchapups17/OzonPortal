@@ -1,0 +1,31 @@
+/* Переносом вправо выравниваем поля input */
+.field  {
+    clear:both; text-align: right; line-height: 25px;
+}
+
+/* Отделяем название label влево от полей input */
+/* label   {
+    float: left; padding-right: 10px;
+} */
+
+*   {
+    margin: 0;
+    padding: 0;
+}
+
+body    {
+    margin: 0px;
+}
+
+.container  {
+    max-width: 490px;
+    margin: auto;
+}
+
+.OZON   {
+    color: blue;
+}
+
+.Help   {
+    color: orange;
+}
